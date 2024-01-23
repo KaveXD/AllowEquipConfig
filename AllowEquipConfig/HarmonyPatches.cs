@@ -19,7 +19,6 @@ namespace AllowEquipConfig
         }
         public static void Prefix(CampaignScenario cs)
         {
-            Debug.Log("prefix");
             cs.equipConfigurable = true;
             cs.forcedEquips = null;
         }
