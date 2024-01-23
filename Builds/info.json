@@ -1,0 +1,19 @@
+{
+  "name": "AllowEquipConfig",
+  "description": "Permits the configuration of your equips, even if the mission says no",
+  "dll_file": "AllowEquipConfig.dll",
+  "last_edit": 638389624229751212,
+  "pub_id": "",
+  "json_version": "",
+  "version": "",
+  "tagline": "",
+  "repository": "",
+  "is_public": false,
+  "unlisted": false,
+  "preview_image": "",
+  "web_preview_image": "",
+  "dependencies": null,
+  "mod_dependencies": null,
+  "menu_mod": false,
+  "ContentType": 3
+}
